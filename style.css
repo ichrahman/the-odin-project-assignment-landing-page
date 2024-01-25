@@ -73,6 +73,53 @@ ul a{
 }
 
 
+.category{
+    margin-top: 20px;
+    margin-bottom: 90px;
+}
+
+.category h2{
+    text-align: center;
+    margin: 30px 0;
+}
+
+.choose img{
+    height: 140px;
+    width: 90%;
+    border: 2px solid #3882F6;
+}
+
+.choose{
+   display: flex;
+   margin: 0 110px;
+   justify-content: center;
+   gap: 10;
+}
+
+.choose p{
+    width: 90%;
+    text-align: center;
+}
+
+.quote{
+    background-color: #E5E7EB;
+    padding: 50px 0;
+    
+}
+
+.quote h1{
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+    font-weight: lighter;
+    padding: 30px 0;
+    margin: 0 90px;
+}
+
+.quote-box{
+    margin-right: 200px;
+    text-align: right;
+} 
 
 footer{
     background-color: #1F2937;
