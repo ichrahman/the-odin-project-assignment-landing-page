@@ -121,6 +121,27 @@ ul a{
     text-align: right;
 } 
 
+
+.action{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 40px 90px;
+    border-radius: 5px;
+    background-color: #3882F6;
+    margin: 40px 90px;
+    color: white;
+}
+
+.action button{
+    background-color: transparent;
+    border: 2px solid #fff;
+    color: white;
+    padding: 5px 25px;
+    border-radius: 5px;
+    display: inline-block;
+}
+
 footer{
     background-color: #1F2937;
 }
