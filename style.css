@@ -4,11 +4,41 @@
     padding: 0;
 }
 
-body{
+section{
     margin: 0 auto;
     max-width: 1200px;
 }
 
 header img{
-    width: 24px;
+    width: 50px;
+}
+
+img{
+    width: 40%;
+}
+
+.banner{
+    background-color: #1F2937;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    padding: 25px 0;
+    align-items: center;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    margin-left: 40px;
+}
+
+footer{
+    background-color: #1F2937;
 }
